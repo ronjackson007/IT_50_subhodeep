@@ -27,6 +27,25 @@ string = str(input("Enter a String: "))
 print(string)
 
 Name = input("Enter a Name: ")
-print("NAme is " + Name)
+print("Name is " + Name)
+
+# Condition
+
+var1 = 0
+var2 = 1
+var3 = 2
+if var1 > var2:
+    print("var1 is greater")
+else:
+    print("var2 is greater")
+
+var4 = int(input())
+if var4 > var2:
+    print("var4 is greater")
+elif var4 == var2:
+    print("var4 is equal")
+else:
+    print("var4 is smaller")
+
 
 
