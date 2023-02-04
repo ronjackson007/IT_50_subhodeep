@@ -20,7 +20,7 @@ print(a, b)
 
 # Input Functions
 
-num = input("Enter Your Number : ")
+num = int(input("Enter Your Number : "))
 print(num)
 
 
