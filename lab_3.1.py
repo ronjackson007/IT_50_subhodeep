@@ -26,4 +26,7 @@ print(num)
 string = str(input("Enter a String: "))
 print(string)
 
+Name = input("Enter a Name: ")
+print("NAme is " + Name)
+
 
