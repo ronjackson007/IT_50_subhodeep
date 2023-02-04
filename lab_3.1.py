@@ -23,4 +23,7 @@ print(a, b)
 num = int(input("Enter Your Number : "))
 print(num)
 
+string = str(input("Enter a String: "))
+print(string)
+
 
