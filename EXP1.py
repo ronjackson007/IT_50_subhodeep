@@ -8,3 +8,5 @@ else:
 
 # Enter a number: 50
 # Even
+# Enter a number: 55
+# Odd
