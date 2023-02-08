@@ -24,4 +24,38 @@ if a>b and c > b:
 else:
     print("c is greater")
 
+# or
+a = 30
+b = 3
+c = 0
 
+if a>b or c > b:
+    print("a or c are greater than b")
+else:
+    print("c is greater")
+
+# Not
+a = 33
+b = 200
+if not a > b:
+    print("a is NOT greater than b")
+
+# Nested If
+
+a = 40
+
+if a >10:
+    print("Above 10")
+    if a > 20:
+        print("above 20")
+    else:
+        print("below 20")
+else:
+    print("Below 10")
+
+# Pass Statement
+
+a = 33
+b = 50
+if a > b:
+    pass
