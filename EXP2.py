@@ -12,3 +12,8 @@ elif c > a and c > b:
     print("c = ", c,"  is Largest")
 else:
     print("All are Equal")
+
+# Enter 1st number: 44
+# Enter 2nd number: 5
+# Enter 3rd number: 55
+# c =  55.0   is Largest
