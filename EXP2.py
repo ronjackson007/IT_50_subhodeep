@@ -5,15 +5,21 @@ b = float(input("Enter 2nd number: "))
 c = float(input("Enter 3rd number: "))
 
 if a > b and a > c:
-    print("a = ", a," is Largest")
+    res = a
 elif b > a and b > c:
-    print("b = ", b," is Largest")
+    res = b
 elif c > a and c > b:
-    print("c = ", c,"  is Largest")
+    res = c
 else:
     print("All are Equal")
+print("Largest Number is ", float(res))
 
 # Enter 1st number: 44
 # Enter 2nd number: 5
 # Enter 3rd number: 55
 # c =  55.0   is Largest
+
+# Enter 1st number: 222
+# Enter 2nd number: 44
+# Enter 3rd number: 44
+# Largest Number is  222.0
