@@ -35,7 +35,9 @@ b.append(3)
 print(b)
 
 # insert
+print("insert")
 b.insert(0,9)
+b.insert(1,99)
 print(b)
 # remove
 b.remove(66)

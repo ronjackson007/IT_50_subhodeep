@@ -13,7 +13,6 @@ elif c > a and c > b:
 else:
     print("All are Equal")
 print("Largest Number is ", float(res))
-
 # Enter 1st number: 44
 # Enter 2nd number: 5
 # Enter 3rd number: 55
