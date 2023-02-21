@@ -9,9 +9,15 @@ def factorial(num):
         print(num, fact)
         return fact
 
-print(factorial(num))
+print("Factorial is ",factorial(num))
 
-# Enter a number: 10
-# 3628800
+# Enter a number: 5
+# 1 1
+# 2 2
+# 3 6
+# 4 24
+# 5 120
+# Factorial is  120
+
 # Enter a number: 0
-# 1
+# Factorial is  1
