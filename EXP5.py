@@ -5,7 +5,9 @@ def factorial(num):
     if num == 0:
         return 1
     else:
-        return num*factorial(num-1)
+        fact = num*factorial(num-1)
+        print(num, fact)
+        return fact
 
 print(factorial(num))
 
