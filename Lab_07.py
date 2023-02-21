@@ -17,4 +17,5 @@ def my_algo():
 my_algo()
 my_algo()
 my_algo()
+my_algo()
 
