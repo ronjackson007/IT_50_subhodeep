@@ -30,3 +30,14 @@ print(t[0])
 print(t[1])
 for i in range(0, 3):
     print(t[i])
+
+# Output
+# ('Apple', 'banana', 'cherry', 'orange')
+# ('Apple', 'banana', 'cherry', 'orange', 'mango')
+# 4
+# It is present in tuple
+# Apple
+# banana
+# Apple
+# banana
+# cherry
