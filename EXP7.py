@@ -17,7 +17,7 @@ arr1 = [10, 20, 30, 40]
 res = list(reversed(arr1))
 print(res)
 
-# met 4: using
+# met 4: using iteration
 arr2 = []
 for i in range(4, 0):
     arr2.append(arr[i])
