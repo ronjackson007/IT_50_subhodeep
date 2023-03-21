@@ -1,4 +1,4 @@
-# Write a Program to find multiplication of two numbw=ers using class and objest
+# Write a Program to find multiplication of two numbers using class and object
 # class MuL, user input, int type, 3rd attribute resul
 class Mul:
     fno = int(input("Enter 1st: "))
