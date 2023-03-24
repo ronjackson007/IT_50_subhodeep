@@ -10,3 +10,8 @@ def div(x, y):
         print("This is Always executed")
 div(3, 0)
 div(1, 2)
+# OUTPUT
+# Sorry! You are dividing by zero
+# This is Always executed
+# Your answer is:  0.5
+# This is Always executed
